@@ -1,5 +1,5 @@
--🔭 I’m currently working on Chess-Challenge
-- 👀 I’m interested in Chess Algorithims 
+-🔭 I’m currently working on nothing.
+- 👀 I’m interested in Robotics
 - 🌱 I’m currently learning C#
 - 📫 How to reach me ...
 - Discord : oger#6444
