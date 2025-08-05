@@ -48,7 +48,7 @@
   <ul>
     <li>
       <a href="https://linkedin.com/in/loganfriel" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin:%200Logan Friel-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+        <img src="https://img.shields.io/badge/linkedin:%20Logan Friel-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
       </a>
     </li>
   </ul>
@@ -62,6 +62,6 @@
 
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 ---
