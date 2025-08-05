@@ -7,6 +7,19 @@
 </p>
 
 <br>
+## <b>Connect with me</b>
+
+<div align="left">
+  <ul>
+    <li>
+      <a href="https://linkedin.com/in/loganfriel" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin:%20Logan Friel-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<br>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
 
@@ -40,21 +53,7 @@
 
 ---
 
-<br>
 
-## <b>Connect with me</b>
-
-<div align="left">
-  <ul>
-    <li>
-      <a href="https://linkedin.com/in/loganfriel" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin:%20Logan Friel-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-      </a>
-    </li>
-  </ul>
-</div>
-
-<br>
 
 <div align="center">
 
